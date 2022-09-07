@@ -1,1 +1,3 @@
 # EjercicioSO
+asdsa
+actualizaciòn 
